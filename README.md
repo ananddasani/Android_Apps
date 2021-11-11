@@ -10,9 +10,16 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 [My Java Course](https://github.com/ananddasani/Java-Practice-Course)
 
 
-## Beginners ⭐(●'◡'●)
+## Getting Started (●'◡'●)
 
 1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
+
+1. [Random Number Generator](https://github.com/ananddasani/Android_Random_Number_Generator_App)
+
+
+## Beginners ⭐
+
+updating soon...
 
 
 ## Intermidiate 🤓
