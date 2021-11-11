@@ -12,7 +12,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Beginners ⭐(●'◡'●)
 
-updating soon...
+1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
 
 
 ## Intermidiate 🤓
