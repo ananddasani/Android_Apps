@@ -12,6 +12,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Getting Started (●'◡'●)
 
+1. [Add 2 Nums](https://github.com/ananddasani/Android_Add_2_Nums)
+
 1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
 
 1. [Random Number Generator](https://github.com/ananddasani/Android_Random_Number_Generator_App)
