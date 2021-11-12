@@ -19,6 +19,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Beginners ⭐
 
+1. [Open Webpage (Explicit Intent)](https://github.com/ananddasani/Android_Common_Intents)
+
 1. [Intents (Explicit & Implicit Intents)](https://github.com/ananddasani/Android_Intent_Practice)
 
 
