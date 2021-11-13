@@ -27,6 +27,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Intents (Explicit & Implicit Intents)](https://github.com/ananddasani/Android_Intent_Practice)
 
+1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
+
 
 ## Intermidiate 🤓
 
