@@ -58,7 +58,7 @@ updating soon...
 
 ## Animation
 
-updating soon...
+1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
 
 ## ❤️ Project Maintainers
 <table>
