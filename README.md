@@ -31,6 +31,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [ListView & Custom Adapter](https://github.com/ananddasani/Android_Custom_Adapter)
 
+1. [RecyclerView & Custom Adapter](https://github.com/ananddasani/Android_RecyclerView)
+
 
 ## Intermidiate 🤓
 
