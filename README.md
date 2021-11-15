@@ -22,7 +22,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Toogle Image](https://github.com/ananddasani/Android_Toogle_Image)
 
-1. [Let's Get Pro (Use Guidelines (Snap Chat UI)](https://github.com/ananddasani/Android_Snapchat_Login_UI)
+1. [Let's Get Pro (Use Guidelines (Snap Chat UI))](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
 
 ## Beginners ⭐
@@ -37,6 +37,11 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [RecyclerView & Custom Adapter](https://github.com/ananddasani/Android_RecyclerView)
 
+1. [Play Music (Assets)](https://github.com/ananddasani/Android_MediaPlayer_Assets)
+
+1. [Play Music (Web)](https://github.com/ananddasani/Android_MediaPlayer_Web)
+
+1. [Play Vido (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
 
 ## Intermidiate 🤓
 
