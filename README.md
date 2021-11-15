@@ -12,6 +12,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Getting Started (●'◡'●)
 
+1. [Grid Using Linear Layout](https://github.com/ananddasani/Android_Grid_By_Linear_Layout)
+
 1. [Add 2 Nums](https://github.com/ananddasani/Android_Add_2_Nums)
 
 1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
