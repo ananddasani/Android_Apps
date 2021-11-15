@@ -16,9 +16,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
 
-1. [Random Number Generator](https://github.com/ananddasani/Android_Random_Number_Generator_App)
-
 1. [Toogle Image](https://github.com/ananddasani/Android_Toogle_Image)
+
+1. [Random Number Generator](https://github.com/ananddasani/Android_Random_Number_Generator_App)
 
 1. [Let's Get Pro (Use Guidelines (Snap Chat UI))](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
