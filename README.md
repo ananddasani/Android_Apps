@@ -63,9 +63,11 @@ updating soon...
 
 ## Let's Get Pro UIs
 
-1. [Snap Chat UI](https://github.com/ananddasani/Android_Snapchat_Login_UI)
+1. [Snap Chat Login UI](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
 1. [Contact App UI](https://github.com/ananddasani/Android_Contact_App_UI)
+
+1. [Dashboard App UI](https://github.com/ananddasani/Android_Dashboard_UI)
 
 ## Animation
 
