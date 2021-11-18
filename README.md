@@ -45,6 +45,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [RecyclerView & Custom Adapter](https://github.com/ananddasani/Android_RecyclerView)
 
+1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
+
 
 ## Advance 😎
 
