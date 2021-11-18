@@ -47,6 +47,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
 
+1. [Toolbar (Custom)](https://github.com/ananddasani/Android_ToolBar_Custom)
+
 
 ## Advance 😎
 
@@ -74,7 +76,7 @@ updating soon...
 
 1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
 
-## ❤️ Project Maintainers
+## ❤️ Project Maintainer
 <table>
 <tr>
 <td align="center"><a href="https://github.com/ananddasani"><img src="https://avatars.githubusercontent.com/u/74413402?s=400&u=f0e841bfa3bad7e069702458b4f860550545b0ac&v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Anand Dasani</h4>
