@@ -21,17 +21,13 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Beginners ⭐
 
-
 1. [Grid Using Linear Layout](https://github.com/ananddasani/Android_Grid_By_Linear_Layout)
 
 1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
 
-
-
 1. [Open Webpage (Explicit Intent)](https://github.com/ananddasani/Android_Common_Intents)
 
 1. [Intents (Explicit & Implicit Intents)](https://github.com/ananddasani/Android_Intent_Practice)
-
 
 1. [Play Music (Assets)](https://github.com/ananddasani/Android_MediaPlayer_Assets)
 
@@ -53,7 +49,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
 
 1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
-
 
 ---
 
