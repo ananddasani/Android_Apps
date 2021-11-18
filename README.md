@@ -23,7 +23,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Grid Using Linear Layout](https://github.com/ananddasani/Android_Grid_By_Linear_Layout)
 
-1. [Passing Data](https://github.com/ananddasani/Android_Passing_Data)
+1. [Passing Data (Intents)](https://github.com/ananddasani/Android_Passing_Data)
 
 1. [Open Webpage (Explicit Intent)](https://github.com/ananddasani/Android_Common_Intents)
 
