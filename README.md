@@ -23,7 +23,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Grid Using Linear Layout](https://github.com/ananddasani/Android_Grid_By_Linear_Layout)
 
-1. [Passing Data (Intents)](https://github.com/ananddasani/Android_Passing_Data)
+1. [Passing Data (Intent Extras)](https://github.com/ananddasani/Android_Passing_Data)
 
 1. [Open Webpage (Explicit Intent)](https://github.com/ananddasani/Android_Common_Intents)
 
@@ -33,7 +33,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Play Music (Web)](https://github.com/ananddasani/Android_MediaPlayer_Web)
 
-1. [Play Vido (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
+1. [Play Video (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
 
 ## Intermidiate 🤓
 
