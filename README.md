@@ -78,6 +78,8 @@ updating soon...
 
 1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
 
+1. [Lottie Animation App](https://github.com/ananddasani/Android_Animation_App)
+
 ## ❤️ Project Maintainer
 <table>
 <tr>
