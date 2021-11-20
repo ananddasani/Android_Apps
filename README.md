@@ -10,7 +10,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 [My Java Course](https://github.com/ananddasani/Java-Practice-Course)
 
 
-## Getting Started (●'◡'●)
+## Getting Started (●'◡'●) 🎳
 
 1. [Add 2 Nums](https://github.com/ananddasani/Android_Add_2_Nums)
 
@@ -58,23 +58,21 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
 
----
-
-## Frontend + Backend ❤️
-
-updating soon...
-
----
-
-## Let's Get Pro UIs
-
 1. [Snap Chat Login UI](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
 1. [Contact App UI](https://github.com/ananddasani/Android_Contact_App_UI)
 
 1. [Dashboard App UI](https://github.com/ananddasani/Android_Dashboard_UI)
 
-## Animation
+---
+
+## Expert (Frontend+Backend) 🥷
+
+updating soon...
+
+--
+
+## Animation ✨💫
 
 1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
 
