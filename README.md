@@ -78,12 +78,12 @@ updating soon...
 
 ---
 
-## Let's Get Pro (UI Clone) 🧑‍💻🏋️
+## Let's Get Pro (UI Clone) 🧑🐱‍👤
 
 Updating soon...
 
 
-## Expert (Full App Clone) 🥷
+## Expert (Full App Clone) 🤖🐱‍🏍
 
 Updating soon...
 
