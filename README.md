@@ -55,6 +55,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Tabs & Fragment](https://github.com/ananddasani/Android_Tabs_and_Fragments)
 
+1. [Tabs & Fragment **NEW**](https://github.com/ananddasani/Android_Tabs_And_Fragment_NEW)
+
 
 ## Advance 😎
 
