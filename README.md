@@ -78,7 +78,7 @@ updating soon...
 
 ---
 
-## Let's Get Pro (UI Clone) 🧑🐱‍👤
+## Let's Get Pro (UI Clone) 🐱‍👤
 
 Updating soon...
 
