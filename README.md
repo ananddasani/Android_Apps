@@ -20,8 +20,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Toasts Types in Android](https://github.com/ananddasani/Android_Toasts)
 
-1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
-
 
 ## Beginners ⭐
 
@@ -38,6 +36,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Play Music (Web)](https://github.com/ananddasani/Android_MediaPlayer_Web)
 
 1. [Play Video (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
+
+1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
 
 ## Intermidiate 🤓
 
@@ -59,7 +59,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Bottom Sheet](https://github.com/ananddasani/Android_Bottom_Sheet)
 
-1. [Bottom Navigation Default](https://github.com/ananddasani/Android_Bottom_Navigation)
+1. [Bottom Navigation (Default)](https://github.com/ananddasani/Android_Bottom_Navigation)
 
 ## Advance 😎
 
