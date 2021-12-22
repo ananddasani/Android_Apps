@@ -47,8 +47,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [RecyclerView & Custom Adapter](https://github.com/ananddasani/Android_RecyclerView)
 
-1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
-
 1. [Toolbar (Custom)](https://github.com/ananddasani/Android_ToolBar_Custom)
 
 1. [Fragments](https://github.com/ananddasani/Android_Fragment_Concept)
@@ -61,7 +59,11 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Bottom Navigation (Default)](https://github.com/ananddasani/Android_Bottom_Navigation)
 
+1. [Navigation Drawer](https://github.com/ananddasani/Android_Drawer_App)
+
 ## Advance 😎
+
+1. [Quote Sharing **App**](https://github.com/ananddasani/Android_Quote_Sharing_App)
 
 1. [Calculator **App**](https://github.com/ananddasani/Android_Calculator_App)
 
