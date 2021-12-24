@@ -31,6 +31,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Intents (Explicit & Implicit Intents)](https://github.com/ananddasani/Android_Intent_Practice)
 
+1. [Multiplication Table App (SeekBar)](https://github.com/ananddasani/Android_Multiplication_Table_App)
+
 1. [Play Music (Assets)](https://github.com/ananddasani/Android_MediaPlayer_Assets)
 
 1. [Play Music (Web)](https://github.com/ananddasani/Android_MediaPlayer_Web)
@@ -38,8 +40,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Play Video (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
 
 1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
-
-1. [Multiplication Table App (SeekBar)](https://github.com/ananddasani/Android_Multiplication_Table_App)
 
 ## Intermidiate 🤓
 
