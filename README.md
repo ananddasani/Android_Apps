@@ -91,7 +91,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Lottie Animation App](https://github.com/ananddasani/Android_Animation_App)
 
 
-## Dependencies
+## Dependencies 👨‍🎓🏋️
 
 1. [Country Code Picker](https://github.com/ananddasani/Android_Country_Code_Picker)
 
