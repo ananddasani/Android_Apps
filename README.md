@@ -39,6 +39,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
 
+1. [Multiplication Table App (SeekBar)](https://github.com/ananddasani/Android_Multiplication_Table_App)
+
 ## Intermidiate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
