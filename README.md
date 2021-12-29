@@ -95,6 +95,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Country Code Picker](https://github.com/ananddasani/Android_Country_Code_Picker)
 
+1. Rate Us Dialog
+
 1. Circular Avatar
 
 1. Image Picker
