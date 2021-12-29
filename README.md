@@ -65,6 +65,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Navigation Drawer](https://github.com/ananddasani/Android_Drawer_App)
 
+1. Navigation Drawer Pro [PR]
+
 ## Advance 😎
 
 1. [Follow Me **App**](https://github.com/ananddasani/Android_FAB_Menu)
@@ -93,15 +95,15 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Dependencies 👨‍🎓🏋️
 
-1. [FAB Menu](https://github.com/ananddasani/Android_FAB_Menu)
-
-1. [Country Code Picker](https://github.com/ananddasani/Android_Country_Code_Picker)
-
-1. Rate Us Dialog
-
 1. Circular Avatar
 
 1. Image Picker
+
+1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
+
+1. [Country Code Picker [PR]](https://github.com/ananddasani/Android_Country_Code_Picker)
+
+1. Rate Us Dialog [PR]
 
 ---
 
