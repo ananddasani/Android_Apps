@@ -105,7 +105,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Country Code Picker [PR]](https://github.com/ananddasani/Android_Country_Code_Picker)
 
-1. Rate Us Dialog [PR]
+1. [Rate Us Dialog [PR]](https://github.com/ananddasani/Android_Rate_Dialog)
 
 ---
 
