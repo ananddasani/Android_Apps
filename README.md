@@ -79,6 +79,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [To Do **App**](https://github.com/ananddasani/Android_ToDo_App)
 
+1. [Direct WhatsApp **App**](https://github.com/ananddasani/Android_Message_WP)
+
 1. [Snap Chat Login **UI**](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
 1. [Contact App **UI**](https://github.com/ananddasani/Android_Contact_App_UI)
