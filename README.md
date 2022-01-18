@@ -72,6 +72,12 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Advance 😎
 
+1. Permission(Android 11 and Lower)
+
+1. Splash Screen & Dangerous Permission
+
+</br>
+
 1. [Follow Me **App**](https://github.com/ananddasani/Android_FAB_Menu)
 
 1. [Quote Sharing **App**](https://github.com/ananddasani/Android_Quote_Sharing_App)
@@ -89,12 +95,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Dashboard App **UI**](https://github.com/ananddasani/Android_Dashboard_UI)
 
 1. [Play Store Purchase **UI**](https://github.com/ananddasani/Android_Bottom_Sheet)
-
-</br>
-
-1. Permission(Android 11 and Lower)
-
-1. Splash Screen & Dangerous Permission
 
 
 ## Animation ✨💫
