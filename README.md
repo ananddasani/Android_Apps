@@ -45,6 +45,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
 
+1. EditText Layout
 ## Intermidiate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
@@ -88,6 +89,12 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Dashboard App **UI**](https://github.com/ananddasani/Android_Dashboard_UI)
 
 1. [Play Store Purchase **UI**](https://github.com/ananddasani/Android_Bottom_Sheet)
+
+</br>
+
+1. Permission(Android 11 and Lower)
+
+1. Splash Screen & Dangerous Permission
 
 
 ## Animation ✨💫
