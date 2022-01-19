@@ -22,6 +22,12 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Text Watcher](https://github.com/ananddasani/Android_TextWatcher)
 
+1. Check Box
+
+1. Toogle Button & Switch
+
+1. Progress Bar
+
 1. XML Workout
 
 
@@ -46,6 +52,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
 
 1. EditText Layout
+
+1. WebView
+
 ## Intermidiate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
