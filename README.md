@@ -61,9 +61,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [ListView & Custom Adapter](https://github.com/ananddasani/Android_Custom_Adapter)
 
-1. [RecyclerView & Custom Adapter P1](https://github.com/ananddasani/Android_RecyclerView)
+1. RecyclerView [Without Model Class]
 
-1. RecyclerView P2
+1. RecyclerView [Model Class]
 
 1. [Toolbar (Custom)](https://github.com/ananddasani/Android_ToolBar_Custom)
 
