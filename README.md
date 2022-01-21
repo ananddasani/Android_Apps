@@ -101,6 +101,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Follow Me **App** [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
+1. Movie List App
+
 
 ## Let's Get Pro UIs 👀🤺
 
@@ -126,11 +128,26 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Image Picker
 
+1. Glide
+
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
 1. [Country Code Picker [PR]](https://github.com/ananddasani/Android_Country_Code_Picker)
 
 1. [Rate Us Dialog [PR]](https://github.com/ananddasani/Android_Rate_Dialog)
+
+
+## Working with APIs 🚀🌍
+
+1. Serialization 
+
+1. Deserializatin
+
+1. Volley Basic
+
+1. Volley Singleton
+
+1. Movie List
 
 ---
 
