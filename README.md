@@ -63,7 +63,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [RecyclerView [Without Model Class]](https://github.com/ananddasani/Android_RecyclerView_Without_ModelClass)
 
-1. RecyclerView [Model Class]
+1. [RecyclerView [Model Class]](https://github.com/ananddasani/Android_RecyclerView_ModelClass)
 
 1. [Toolbar (Custom)](https://github.com/ananddasani/Android_ToolBar_Custom)
 
