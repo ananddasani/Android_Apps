@@ -145,6 +145,8 @@ updating soon...
 
 Updating soon...
 
+---
+
 
 ## ❤️ Project Maintainer
 <table>
