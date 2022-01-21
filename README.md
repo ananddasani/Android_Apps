@@ -24,7 +24,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Check Box](https://github.com/ananddasani/Android_CheckBox)
 
-1. Toogle Button & Switch
+1. [Toogle Button & Switch](https://github.com/ananddasani/Android_Toggle_Button_And_Switch)
 
 1. Progress Bar
 
