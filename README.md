@@ -20,6 +20,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Toasts Types in Android](https://github.com/ananddasani/Android_Toasts)
 
+1. Snackbar Types in Android
+
 1. [Text Watcher](https://github.com/ananddasani/Android_TextWatcher)
 
 1. [Check Box](https://github.com/ananddasani/Android_CheckBox)
@@ -29,8 +31,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Progress Bar](https://github.com/ananddasani/Android_Progressbar)
 
 1. VideoView (From URL)
-
-1. XML Workout
 
 
 ## Beginners ⭐
