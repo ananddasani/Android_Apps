@@ -89,6 +89,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Splash Screen & Dangerous Permission
 
+1. Download Files (DownloadManager)
+
 </br>
 
 1. [Calculator **App**](https://github.com/ananddasani/Android_Calculator_App)
@@ -129,6 +131,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. Image Picker
 
 1. Glide
+
+1. Dexter
 
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
