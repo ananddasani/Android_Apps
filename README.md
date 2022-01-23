@@ -5,7 +5,7 @@ This is a Android App Repo where i will be uploading my all Android Developemnt 
 
 ## Learn Java First :P
 
-If you are willing to Learn Java Language, I have made One Awesome Course for you have a tour first,
+If you are willing to Learn Java Language, I have made One Awesome Course for you, Have a tour first,
 
 [My Java Course](https://github.com/ananddasani/Java-Practice-Course)
 
@@ -93,6 +93,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Download Files (DownloadManager)
 
+1. Fetch & Download (Image, Video)
+
 </br>
 
 1. [Calculator **App**](https://github.com/ananddasani/Android_Calculator_App)
@@ -101,11 +103,11 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [To Do **App**](https://github.com/ananddasani/Android_ToDo_App)
 
+1. Movie List **App**
+
 1. [Direct WhatsApp **App** [PR]](https://github.com/ananddasani/Android_Message_WP)
 
 1. [Follow Me **App** [PR]](https://github.com/ananddasani/Android_FAB_Menu)
-
-1. Movie List App
 
 
 ## Let's Get Pro UIs 👀🤺
@@ -142,6 +144,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Rate Us Dialog [PR]](https://github.com/ananddasani/Android_Rate_Dialog)
 
+1. Fast Donwloader [PR]
+
 
 ## Working with APIs 🚀🌍
 
@@ -149,7 +153,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Deserializatin
 
-1. Volley Basic
+1. Volley Basics
 
 1. Volley Singleton
 
