@@ -75,7 +75,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Tabs & Fragment **NEW**](https://github.com/ananddasani/Android_Tabs_And_Fragment_NEW)
 
-1. Tabs & Fragment (**ViewPager2** NEW)
+1. [Tabs & Fragment (**ViewPager2** NEW)](https://github.com/ananddasani/Android_Tabs_and_Fragment_ViewPager2)
 
 1. [Bottom Sheet](https://github.com/ananddasani/Android_Bottom_Sheet)
 
