@@ -87,27 +87,39 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Advance 😎
 
-1. Permission(Android 11 and Lower)
+1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
 
-1. Splash Screen & Dangerous Permission
+1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
 
-1. Download Files (DownloadManager)
+1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
 
-1. Fetch & Download (Image, Video)
+1. Movie List App
 
-</br>
+1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
-1. [Calculator **App**](https://github.com/ananddasani/Android_Calculator_App)
+1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
-1. [Quote Sharing **App**](https://github.com/ananddasani/Android_Quote_Sharing_App)
+---
 
-1. [To Do **App**](https://github.com/ananddasani/Android_ToDo_App)
+##  Expert ⚡👨‍🎓🤖
 
-1. Movie List **App**
+ 1. Permission (Android 11 and Lower) App [PR]
 
-1. [Direct WhatsApp **App** [PR]](https://github.com/ananddasani/Android_Message_WP)
+1. Splash Screen & Dangerous Permission App [PR]
 
-1. [Follow Me **App** [PR]](https://github.com/ananddasani/Android_FAB_Menu)
+1. Download Files (DownloadManager) App [PR]
+
+1. Fast Downloader (__ Downloader) App [PR]
+
+1. Fetch & Download (Image, Video) App [PR]
+
+1. Insta Profil Pic Downloader App [PR]
+
+1. Insta Photo Post Downloader App [PR]
+
+1. Insta Reels Downloader App [PR]
+
+1. Insta IGTV/Video Downloader App [PR]
 
 
 ## Let's Get Pro UIs 👀🤺
@@ -121,14 +133,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Play Store Purchase **UI**](https://github.com/ananddasani/Android_Bottom_Sheet)
 
 
-## Animation ✨💫
-
-1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
-
-1. [Lottie Animation App](https://github.com/ananddasani/Android_Animation_App)
-
-
-## Dependencies 👨‍🎓🏋️
+## Dependencies 🦾🦿🏋️
 
 1. Circular Avatar
 
@@ -159,16 +164,21 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Movie List
 
+
+## Animation ✨💫
+
+1. [Splash Screen](https://github.com/ananddasani/Android_Splash_Screen)
+
+1. [Lottie Animation App](https://github.com/ananddasani/Android_Animation_App)
+
 ---
 
 ## Frontend+Backend ❤️
 
 updating soon...
 
----
 
-
-## Expert (Full App Clone) 🤖🐱‍🏍
+## Full App Clone
 
 Updating soon...
 
