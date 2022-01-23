@@ -97,9 +97,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App](https://github.com/ananddasani/Android_Movie_List_App)
 
-1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
-
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
+
+1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
 ---
 
@@ -111,7 +111,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Download Files (DownloadManager) App [PR]
 
-1. Fast Downloader (__ Downloader) App [PR]
+1. [Fast Downloader (__ Downloader) App [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
 1. Fetch & Download (Image, Video) App [PR]
 
@@ -151,7 +151,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Rate Us Dialog [PR]](https://github.com/ananddasani/Android_Rate_Dialog)
 
-1. Fast Donwloader [PR]
+1. [Fast Donwloader [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
 
 ## Working with APIs 🚀🌍
