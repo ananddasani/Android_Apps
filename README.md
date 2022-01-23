@@ -55,7 +55,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Alert Dialog (Custom)
 
-1. EditText Layout
+1. [EditText Layout](https://github.com/ananddasani/Android_TextInputLayout)
 
 1. [WebView](https://github.com/ananddasani/Android_WebView)
 
