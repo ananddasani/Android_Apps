@@ -162,7 +162,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Volley Basics](https://github.com/ananddasani/Android_Volley_Basics)
 
-1. Volley Singleton
+1. [Volley Singleton](https://github.com/ananddasani/Android_Volley_Singleton)
 
 1. [Movie List](https://github.com/ananddasani/Android_Movie_List_App)
 
