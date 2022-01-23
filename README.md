@@ -93,7 +93,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
 
-1. Movie List App
+1. [Movie List App](https://github.com/ananddasani/Android_Movie_List_App)
 
 1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
@@ -162,7 +162,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Volley Singleton
 
-1. Movie List
+1. [Movie List](https://github.com/ananddasani/Android_Movie_List_App)
 
 
 ## Animation ✨💫
