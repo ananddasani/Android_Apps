@@ -51,7 +51,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Play Video (Assets)](https://github.com/ananddasani/Android_VideoPlayer_Assets)
 
-1. [Alert Dialog (Default)](https://github.com/ananddasani/Android_Alert_Dialog)
+1. [Alert Dialog](https://github.com/ananddasani/Android_Alert_Dialog)
+
+1. Alert Dialog (Custom)
 
 1. EditText Layout
 
