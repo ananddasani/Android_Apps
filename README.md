@@ -164,14 +164,13 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Volley Singleton](https://github.com/ananddasani/Android_Volley_Singleton)
 
-1. [Movie List (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
-
-1. Movie List (Retrofit 2)
-
 1. Retrofit Basics
 
 1. Retrofit Singleton
 
+1. [Movie List (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
+
+1. Movie List (Retrofit 2)
 
 ## Animation ✨💫
 
