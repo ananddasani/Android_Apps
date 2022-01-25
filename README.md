@@ -107,7 +107,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ##  Expert ⚡👨‍🎓🤖
 
- 1. Permission (Android 11 and Lower) App [PR]
+1. [Permission (Android 11 and Lower) App [PR]](https://github.com/ananddasani/Android_Run_Time_Permission)
 
 1. [Splash Screen & Dangerous Permission App [PR]](https://github.com/ananddasani/Android_Splash_Screen_and_Permission)
 
