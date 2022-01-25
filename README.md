@@ -97,7 +97,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
-1. Movie List App 2 (Volley)
+1. Movie List App (Retrofit 2)
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
