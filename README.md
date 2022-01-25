@@ -172,7 +172,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Retrofit Singleton
 
-1. Json From **Array** Retrofit 2
+1. [Json From **Array** Retrofit 2](https://github.com/ananddasani/Android_Retrofit_Json_From_Array)
 
 1. Json From **Nested Objects** Retrofit 2
 
