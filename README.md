@@ -156,9 +156,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Working with APIs 🚀🌍
 
-1. Serialization 
+1. Serialization
 
-1. Deserializatin
+1. Deserialization
 
 1. [Volley Basics](https://github.com/ananddasani/Android_Volley_Basics)
 
@@ -181,6 +181,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. Animation Background
 
 1. Bottle Spin Truth & Dare App
+
+1. RecyclerView Anim (Alpha)
 
 ---
 
