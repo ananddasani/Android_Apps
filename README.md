@@ -160,15 +160,17 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Deserialization
 
-1. [Volley Basics](https://github.com/ananddasani/Android_Volley_Basics)
+1. [Volley Basics (only objects)](https://github.com/ananddasani/Android_Volley_Basics)
 
 1. [Volley Singleton](https://github.com/ananddasani/Android_Volley_Singleton)
 
-1. Retrofit Basics
+1. Retrofit Basics (only objects)
 
 1. Retrofit Singleton
 
-1. Json From Array **Retrofit**
+1. Json From **Array** Retrofit 2
+
+1. Json From **Nested Objects** Retrofit 2
 
 1. [Movie List (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
