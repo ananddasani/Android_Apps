@@ -115,9 +115,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Fast Downloader (__ Downloader) App [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
-1. Fetch & Download (Image, Video) App [PR]
+1. [Fetch & Download (Image, Video) App [PR]](https://github.com/ananddasani/Android_Fetch_and_Download)
 
-1. [Insta Profil Pic Downloader App [PR]](https://github.com/ananddasani/Android_Instagram_Profile_Pic_Downloader)
+1. [Insta Profile Pic Downloader App [PR]](https://github.com/ananddasani/Android_Instagram_Profile_Pic_Downloader)
 
 1. Insta Photo Post Downloader App [PR]
 
