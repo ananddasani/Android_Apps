@@ -85,8 +85,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Navigation Drawer](https://github.com/ananddasani/Android_Drawer_App)
 
-1. [Navigation Drawer Pro [PR]](https://github.com/ananddasani/Android_Complete_Navigation_Drawer)
-
 ## Advance 😎
 
 1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
@@ -98,6 +96,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
+
+1. [Navigation Drawer App [PR]](https://github.com/ananddasani/Android_Complete_Navigation_Drawer)
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
