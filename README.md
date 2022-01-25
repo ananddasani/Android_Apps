@@ -95,7 +95,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
 
-1. [Movie List App](https://github.com/ananddasani/Android_Movie_List_App)
+1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
+
+1. Movie List App 2 (Volley)
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
@@ -164,6 +166,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Volley Singleton](https://github.com/ananddasani/Android_Volley_Singleton)
 
+1. [Movie List (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
+
 1. Retrofit Basics (only objects)
 
 1. Retrofit Singleton
@@ -171,10 +175,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. Json From **Array** Retrofit 2
 
 1. Json From **Nested Objects** Retrofit 2
-
-1. [Movie List (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
-
-1. Movie List (Retrofit 2)
 
 ## Animation ✨💫
 
