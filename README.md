@@ -97,7 +97,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
-1. Movie List App (Retrofit 2)
+1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
@@ -174,7 +174,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Json From **Array** Retrofit 2](https://github.com/ananddasani/Android_Retrofit_Json_From_Array)
 
-1. Json From **Nested Objects** Retrofit 2
+1. [Json From **Nested Objects** Retrofit 2](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
 ## Animation ✨💫
 
