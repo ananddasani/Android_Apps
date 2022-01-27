@@ -147,6 +147,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Glide
 
+1. Picaso
+
 1. Dexter
 
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
