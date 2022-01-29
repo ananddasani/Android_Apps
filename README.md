@@ -95,6 +95,12 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Swipe To Delete App (RecyclerView)
 
+1. Animated RecyclerView App
+
+1. Search Bar (Default) 
+
+1. Search Bar (Custom)
+
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
