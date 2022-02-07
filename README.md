@@ -87,24 +87,23 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Advance 😎
 
-
-1. Fetch n Share Image App
-
 1. Swipe To Delete (RecyclerView)
 
 1. Animated RecyclerView
 
-1. Search Bar (Default) 
+1. Search Bar (Default) (RecyclerView)
 
-1. Search Bar (Custom)
+1. Search Bar (Custom) (RecyclerView)
 
 <br>
 
 1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
 
+1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
+
 1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
 
-1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
+1. Image Sharing App
 
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
@@ -203,7 +202,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Lottie Animation App](https://github.com/ananddasani/Android_Animation_App)
 
-1. Animation Background
+1. Animated Background
 
 1. Bottle Spin Truth & Dare App
 
