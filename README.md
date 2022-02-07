@@ -119,17 +119,17 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ##  Expert ⚡👨‍🎓🤖
 
-1. [Permission App [Android 11 and Lower][PR]](https://github.com/ananddasani/Android_Run_Time_Permission)
+1. [Permission App [Android 11+ & Lower] [PR]](https://github.com/ananddasani/Android_Run_Time_Permission)
 
 1. [Splash Screen & Dangerous Permission App [PR]](https://github.com/ananddasani/Android_Splash_Screen_and_Permission)
 
-1. [Download Files App [DownloadManager][PR]](https://github.com/ananddasani/Android_DownloadManager)
+1. [Download Files App [DownloadManager] [PR]](https://github.com/ananddasani/Android_DownloadManager)
 
-1. [Fast Downloader App [__ Downloader][PR]](https://github.com/ananddasani/Android_PRDownloader)
+1. [Fast Downloader App [__ Downloader] [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
-1. [Fetch & Download App [Image, Video][PR]](https://github.com/ananddasani/Android_Fetch_and_Download)
+1. [Fetch & Download App [Image, Video] [PR]](https://github.com/ananddasani/Android_Fetch_and_Download)
 
-1. Insta API Breakdown [Volley Post][PR]
+1. Insta API Breakdown [PR]
 
 1. [Insta DP Downloader App [PR]](https://github.com/ananddasani/Android_Instagram_Profile_Pic_Downloader)
 
