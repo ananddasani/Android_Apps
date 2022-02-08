@@ -55,10 +55,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Alert Dialog (Custom)
 
-1. Image Slider (Default)
-
-1. Image Slider (ViewPager2)
-
 1. [EditText Layout](https://github.com/ananddasani/Android_TextInputLayout)
 
 1. [WebView](https://github.com/ananddasani/Android_WebView)
@@ -89,6 +85,10 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Navigation Drawer](https://github.com/ananddasani/Android_Drawer_App)
 
+1. Image Slider (Default)
+
+1. Image Slider (ViewPager2) [PR]
+
 ## Advance 😎
 
 1. Swipe To Delete (RecyclerView)
@@ -108,6 +108,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. [Quote Sharing App](https://github.com/ananddasani/Android_Quote_Sharing_App)
 
 1. Image Sharing App
+
+1. Image Slider App [PR]
 
 1. [Image App [Pixabay Api]](https://github.com/ananddasani/Android_Image_App)
 
@@ -168,6 +170,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. Picaso
 
 1. Dexter
+
+1. Intro Screen [PR]
 
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
