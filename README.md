@@ -115,11 +115,9 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
-1. Image Slider App [PR]
-
 1. How to Use App [PR]
 
-1. Intro Screen App [PR]
+1. OnBoarding Screen App [PR]
 
 1. [Navigation Drawer App [PR]](https://github.com/ananddasani/Android_Complete_Navigation_Drawer)
 
