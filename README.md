@@ -175,8 +175,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Dexter
 
-1. Intro Screen [PR]
-
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
 1. [Country Code Picker [PR]](https://github.com/ananddasani/Android_Country_Code_Picker)
@@ -185,7 +183,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Fast Donwloader [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
-1. Material Intro
+1. Material Intro [PR]
 
 
 ## Working with APIs 🚀🌍
