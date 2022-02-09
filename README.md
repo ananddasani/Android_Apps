@@ -150,19 +150,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. OnBoarding Screen Custom Made [PR]
 
 
-## Let's Get Pro UIs 👀🤺
-
-1. [Snap Chat Login **UI**](https://github.com/ananddasani/Android_Snapchat_Login_UI)
-
-1. [Contact App **UI**](https://github.com/ananddasani/Android_Contact_App_UI)
-
-1. [Dashboard App **UI**](https://github.com/ananddasani/Android_Dashboard_UI)
-
-1. [Play Store Purchase **UI**](https://github.com/ananddasani/Android_Bottom_Sheet)
-
----
-
-##  Database 📜🔮🔎
+##  Database 📜🔎🔮
 
 1. Shares Preference
 
@@ -233,6 +221,17 @@ Updating Soon...
 1. Bottle Spin Truth & Dare App
 
 1. RecyclerView Anim (Alpha)
+
+
+## Let's Get Pro UIs 👀🤺
+
+1. [Snap Chat Login **UI**](https://github.com/ananddasani/Android_Snapchat_Login_UI)
+
+1. [Contact App **UI**](https://github.com/ananddasani/Android_Contact_App_UI)
+
+1. [Dashboard App **UI**](https://github.com/ananddasani/Android_Dashboard_UI)
+
+1. [Play Store Purchase **UI**](https://github.com/ananddasani/Android_Bottom_Sheet)
 
 ---
 
