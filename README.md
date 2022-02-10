@@ -87,7 +87,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Image Slider (Default)](https://github.com/ananddasani/Android_Image_Slider_Default)
 
-1. Image Slider (ViewPager2) [PR]
+1. [Image Slider (ViewPager2) [PR]](https://github.com/ananddasani/Android_Image_Slider_ViewPager2)
 
 ## Advance 😎
 
