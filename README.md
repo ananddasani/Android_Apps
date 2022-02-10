@@ -85,7 +85,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Navigation Drawer](https://github.com/ananddasani/Android_Drawer_App)
 
-1. Image Slider (Default)
+1. [Image Slider (Default)](https://github.com/ananddasani/Android_Image_Slider_Default)
 
 1. Image Slider (ViewPager2) [PR]
 
