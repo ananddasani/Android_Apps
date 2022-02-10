@@ -115,7 +115,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
-1. How to Use App [PR]
+1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
 
 1. OnBoarding Screen App (lib) [PR]
 
