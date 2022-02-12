@@ -101,7 +101,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 <br>
 
-1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
+1. Set Wallpaper App
 
 1. [To Do App](https://github.com/ananddasani/Android_ToDo_App)
 
@@ -110,6 +110,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 1. Image Sharing App
 
 1. [Image App [Pixabay Api]](https://github.com/ananddasani/Android_Image_App)
+
+1. [Calculator App](https://github.com/ananddasani/Android_Calculator_App)
 
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
 
@@ -208,6 +210,17 @@ Updating Soon...
 1. [Json From **Array** Retrofit 2](https://github.com/ananddasani/Android_Retrofit_Json_From_Array)
 
 1. [Json From **Nested Objects** Retrofit 2](https://github.com/ananddasani/Android_Json_From_Nested_Object)
+
+
+## Material Designing 
+
+1. Rounded ImageView
+
+1. Rounded Toolbar
+
+1. Showcase View
+
+1. Material About
 
 
 ## Animation ✨💫
