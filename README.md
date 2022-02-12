@@ -59,6 +59,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [WebView](https://github.com/ananddasani/Android_WebView)
 
+1. Copy Paste (ClipboardManager)
+
 ## Intermidiate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
@@ -214,13 +216,13 @@ Updating Soon...
 
 ## Material Designing 
 
-1. Rounded ImageView
+1. Rounded ImageView [PR]
 
-1. Rounded Toolbar
+1. Rounded Toolbar [PR]
 
-1. Showcase View
+1. Showcase View [PR]
 
-1. Material About
+1. Material About [PR]
 
 
 ## Animation ✨💫
