@@ -61,6 +61,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Copy Paste (ClipboardManager)
 
+1. Show / Hide Keyboard
+
 ## Intermidiate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
