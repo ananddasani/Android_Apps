@@ -229,7 +229,7 @@ Updating Soon...
 
 ## Material Designing 
 
-1. Rounded ImageView [PR]
+1. [Rounded ImageView [PR]](https://github.com/ananddasani/Android_Rounded_ImageView)
 
 1. Rounded Toolbar [PR]
 
