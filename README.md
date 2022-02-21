@@ -205,7 +205,7 @@ Updating Soon...
 
 1. [Show Case [PR]](https://github.com/ananddasani/Android_ShowCase_View)
 
-1. Material Intro [PR]
+1. [Material About [PR]](https://github.com/ananddasani/Android_Material_About)
 
 
 ## Working with APIs 🚀🌍
@@ -237,7 +237,7 @@ Updating Soon...
 
 1. [Showcase View [PR]](https://github.com/ananddasani/Android_ShowCase_View)
 
-1. Material About [PR]
+1. [Material About [PR]](https://github.com/ananddasani/Android_Material_About)
 
 
 ## Animation ✨💫
