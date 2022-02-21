@@ -157,9 +157,13 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 <br>
 
+1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
+
+<br>
+
 1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
-1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
+1. Profile Downloader [PR]
 
 
 ## Ads (Google Admob)
