@@ -231,7 +231,7 @@ Updating Soon...
 
 1. [Rounded ImageView [PR]](https://github.com/ananddasani/Android_Rounded_ImageView)
 
-1. Rounded Toolbar [PR]
+1. [Rounded Toolbar [PR]](https://github.com/ananddasani/Android_Rounded_Toolbar)
 
 1. Showcase View [PR]
 
