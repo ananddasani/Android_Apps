@@ -121,15 +121,13 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
-1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
-
 1. OnBoarding Screen App (lib) [PR]
+
+1. OnBoarding Screen Custom Made [PR]
 
 1. [Navigation Drawer App [PR]](https://github.com/ananddasani/Android_Complete_Navigation_Drawer)
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
-
-1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
 ---
 
@@ -139,11 +137,15 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Splash Screen & Dangerous Permission App [PR]](https://github.com/ananddasani/Android_Splash_Screen_and_Permission)
 
+<br>
+
 1. [Download Files App [DownloadManager] [PR]](https://github.com/ananddasani/Android_DownloadManager)
 
 1. [Fast Downloader App [__ Downloader] [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
 1. [Fetch & Download App [Image, Video] [PR]](https://github.com/ananddasani/Android_Fetch_and_Download)
+
+<br>
 
 1. [Insta API Breakdown [PR]](https://github.com/ananddasani/Android_Instagram_API_Breakdown)
 
@@ -153,7 +155,11 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Insta Reels Downloader App [PR]](https://github.com/ananddasani/Android_Instagram_Reels_Downloader_App)
 
-1. OnBoarding Screen Custom Made [PR]
+<br>
+
+1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
+
+1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
 
 
 ## Ads (Google Admob)
