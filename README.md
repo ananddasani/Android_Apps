@@ -129,6 +129,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Follow Me App [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
+1. [Material Anim Dialogs App [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
+
 ---
 
 ##  Expert ⚡👨‍🎓🤖
@@ -249,6 +251,8 @@ Updating Soon...
 
 1. [Material About [PR]](https://github.com/ananddasani/Android_Material_About)
 
+1. [Material Anim Dialogs (Regular & Bottom) [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
+
 
 ## Animation ✨💫
 
@@ -261,6 +265,8 @@ Updating Soon...
 1. Bottle Spin Truth & Dare App
 
 1. RecyclerView Anim (Alpha)
+
+1. [Material Anim Dialogs (Regular & Bottom) [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
 
 
 ## Let's Get Pro UIs 👀🤺
