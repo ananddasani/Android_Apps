@@ -59,13 +59,13 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [WebView](https://github.com/ananddasani/Android_WebView)
 
+1. [Copy Paste (ClipboardManager)](https://github.com/ananddasani/Android_ClipBoardManager)
+
+1. [Set Wallpaper App](https://github.com/ananddasani/Android_Set_Wallpaper_App)
+
 1. Show / Hide Keyboard
 
 ## Intermidiate 🤓
-
-1. Copy Paste (ClipboardManager)
-
-1. [Set Wallpaper App](https://github.com/ananddasani/Android_Set_Wallpaper_App)
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
 
