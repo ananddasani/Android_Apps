@@ -203,6 +203,8 @@ Updating Soon...
 
 1. [Fast Donwloader [PR]](https://github.com/ananddasani/Android_PRDownloader)
 
+1. [Show Case [PR]](https://github.com/ananddasani/Android_ShowCase_View)
+
 1. Material Intro [PR]
 
 
@@ -233,7 +235,7 @@ Updating Soon...
 
 1. [Rounded Toolbar [PR]](https://github.com/ananddasani/Android_Rounded_Toolbar)
 
-1. Showcase View [PR]
+1. [Showcase View [PR]](https://github.com/ananddasani/Android_ShowCase_View)
 
 1. Material About [PR]
 
