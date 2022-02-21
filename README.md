@@ -121,6 +121,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Movie List App (Retrofit 2)](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
+1. [Sweet Alert Dialogs](https://github.com/ananddasani/Android_Sweet_Alert_Dialog)
+
 1. OnBoarding Screen App (lib) [PR]
 
 1. OnBoarding Screen Custom Made [PR]
@@ -206,6 +208,8 @@ Updating Soon...
 1. Picaso
 
 1. Dexter
+
+1. [Sweet Alert Dialogs](https://github.com/ananddasani/Android_Sweet_Alert_Dialog)
 
 1. [FAB Menu [PR]](https://github.com/ananddasani/Android_FAB_Menu)
 
