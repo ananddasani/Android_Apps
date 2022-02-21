@@ -195,15 +195,9 @@ Updating Soon...
 
 ## Dependencies 🦾🦿🏋️
 
-1. Circular Avatar
-
-1. Image Picker
-
 1. Toasty
 
 1. Glide
-
-1. Picaso
 
 1. Dexter
 
