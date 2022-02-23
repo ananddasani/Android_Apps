@@ -161,12 +161,6 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [How to Use App [PR]](https://github.com/ananddasani/Android_How_To_Use_App)
 
-<br>
-
-1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
-
-1. Profile Downloader [PR]
-
 
 ## Ads (Google Admob)
 
@@ -243,7 +237,7 @@ Updating Soon...
 1. [Json From **Nested Objects** Retrofit 2](https://github.com/ananddasani/Android_Json_From_Nested_Object)
 
 
-## Material Designing 
+## Material Designing 🤩👀
 
 1. [Rounded ImageView [PR]](https://github.com/ananddasani/Android_Rounded_ImageView)
 
@@ -271,7 +265,7 @@ Updating Soon...
 1. [Material Anim Dialogs (Regular & Bottom) [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
 
 
-## Let's Get Pro UIs 👀🤺
+## Let's Get Pro UIs 😮🤺
 
 1. [Snap Chat Login **UI**](https://github.com/ananddasani/Android_Snapchat_Login_UI)
 
@@ -286,7 +280,9 @@ Updating Soon...
 
 ## Frontend+Backend ❤️
 
-updating soon...
+1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
+
+1. Profile Downloader [PR]
 
 
 ## Full App Clone
