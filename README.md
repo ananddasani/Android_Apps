@@ -172,7 +172,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Banner Ad](https://github.com/ananddasani/Android_Ads_Banner)
 
-1. Interstitial Ad
+1. [Interstitial Ad](https://github.com/ananddasani/Android_Ads_Interstitial)
 
 1. Interstitial Ad onBackPress
 
