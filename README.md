@@ -282,7 +282,9 @@ Updating Soon...
 
 1. [Direct WhatsApp App [PR]](https://github.com/ananddasani/Android_Message_WP)
 
-1. Profile Downloader [PR]
+1. Profile Downloader V1 [No Ads] [PR]
+
+1. Profile Downloader V2 [Contains Ads] [PR]
 
 
 ## Full App Clone
