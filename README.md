@@ -117,6 +117,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Number Guessing Game](https://github.com/ananddasani/Android_Number_Guessing_Game)
 
+1. [Contact App](https://github.com/ananddasani/Android_RecyclerView_ModelClass)
+
 1. [Image App [Pixabay Api]](https://github.com/ananddasani/Android_Image_App)
 
 1. [Movie List App (Volley)](https://github.com/ananddasani/Android_Movie_List_App)
