@@ -1,7 +1,16 @@
 # Android_Apps (Source Code)
 
+---
+
+## My Play Store Account
+[Devloper Aanand](https://play.google.com/store/apps/dev?id=5850209410463804281)
+
+**Do checkout my applications on Play Store :D**
+
+---
+
 Hey All!!
-This is a Android App Repo where i will be uploading my all Android Developemnt Projects starting from Beginning and going throug Cloning Popular Apps to Advance like working Backend Database like firebase and lots more.
+This is an Android App Repo where I will be uploading all my Android Developemnt Projects/Apps/Topics starting from Beginning (going throug Cloning Popular Apps) to Expert level like working with Firebase, REST APIs and lots more...
 
 ## Learn Java First :P
 
