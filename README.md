@@ -201,8 +201,15 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 ## Firebase ☁️🔥
 
-Updating Soon...
+1. Email SigIn-SignUp-Logout
 
+1. Email Forgot-Update Password-Email
+
+1. Email SigIn-SignUp + DB Store
+
+1. Google SigIn + DB Store
+
+1. CRUD Firebase Firestore
 
 ---
 
