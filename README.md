@@ -41,6 +41,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [VideoView (From URL)](https://github.com/ananddasani/Android_VideoView)
 
+1. View Binding
+
 
 ## Beginners ⭐
 
