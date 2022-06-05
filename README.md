@@ -205,7 +205,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Email : SigIn-SignUp-Logout-DeleteAccount](https://github.com/ananddasani/Android_Firebase_Email_SignIn-Up)
 
-1. Email : Update/Change-Verification, Forgot-Password
+1. [Email : Update/Change-Verification, Forgot-Password](https://github.com/ananddasani/Android_Firebase_Email-Password_Reset-Update)
 
 1. Email, Google : SigIn-SignUp + DB Store
 
