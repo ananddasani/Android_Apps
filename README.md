@@ -211,7 +211,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. Mobile-Number : SignIn-SignUp + Verification
 
-1. [CRUD Firebase Firestore)[https://github.com/ananddasani/Android_Firebase_CRUD_FireStore]
+1. (CRUD Firebase Firestore)[https://github.com/ananddasani/Android_Firebase_CRUD_FireStore]
 
 ---
 
