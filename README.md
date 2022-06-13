@@ -207,11 +207,11 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Email : Update/Change-Verification, Forgot-Password](https://github.com/ananddasani/Android_Firebase_Email-Password_Reset-Update)
 
-1. Email, Google : SigIn-SignUp + DB Store
+1. Google : SigIn-SignUp
 
 1. Mobile-Number : SignIn-SignUp + Verification
 
-1. CRUD Firebase Firestore
+1. [CRUD Firebase Firestore)[https://github.com/ananddasani/Android_Firebase_CRUD_FireStore]
 
 ---
 
