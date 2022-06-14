@@ -74,7 +74,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Set Wallpaper App](https://github.com/ananddasani/Android_Set_Wallpaper_App)
 
-## Intermidiate 🤓
+## Intermediate 🤓
 
 1. [ListView & Adapter](https://github.com/ananddasani/Android_ListView)
 
@@ -88,7 +88,7 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Fragments](https://github.com/ananddasani/Android_Fragment_Concept)
 
-1. [Tabs & Fragment (Depricated Method)](https://github.com/ananddasani/Android_Tabs_and_Fragments)
+1. [Tabs & Fragment (Deprecated Method)](https://github.com/ananddasani/Android_Tabs_and_Fragments)
 
 1. [Tabs & Fragment **NEW**](https://github.com/ananddasani/Android_Tabs_And_Fragment_NEW)
 
