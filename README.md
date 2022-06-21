@@ -146,6 +146,15 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Material Anim Dialogs App [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
 
+
+<br>
+
+1. Document Generation Basic
+
+1. Document Generation (User Input)
+
+1. Invoice Generator App
+
 ---
 
 ##  Expert ⚡👨‍🎓🤖
