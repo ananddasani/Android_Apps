@@ -146,6 +146,8 @@ If you are willing to Learn Java Language, I have made One Awesome Course for yo
 
 1. [Material Anim Dialogs App [PR]](https://github.com/ananddasani/Android_Material_Animation_Dialogs)
 
+1. [Notification Service](https://github.com/ananddasani/Android_Notification_Service)
+
 
 <br>
 
